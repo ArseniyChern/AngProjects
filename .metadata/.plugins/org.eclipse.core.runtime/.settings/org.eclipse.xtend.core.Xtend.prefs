@@ -1,0 +1,4 @@
+AbstractTextEditor.Color.Background=250,250,250
+eclipse.preferences.version=1
+org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.richText.bgColor=230,230,230
+overriddenByCSS=,org.eclipse.xtend.core.Xtend.syntaxColorer.tokenStyles.xtend.richText.bgColor,AbstractTextEditor.Color.Background,
